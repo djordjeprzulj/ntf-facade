@@ -3,8 +3,8 @@ package edu.ftn.iis.soas.ntf.facade.controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import edu.ftn.iis.soas.ntf.facade.model.NotificationRequest;
-import edu.ftn.iis.soas.ntf.facade.model.NotificationResponse;
+import edu.ftn.iis.soas.domain.model.NotificationRequest;
+import edu.ftn.iis.soas.domain.model.NotificationResponse;
 import edu.ftn.iis.soas.ntf.facade.service.FacadeService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

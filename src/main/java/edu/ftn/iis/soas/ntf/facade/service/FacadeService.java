@@ -1,7 +1,7 @@
 package edu.ftn.iis.soas.ntf.facade.service;
 
-import edu.ftn.iis.soas.ntf.facade.model.NotificationRequest;
-import edu.ftn.iis.soas.ntf.facade.model.NotificationResponse;
+import edu.ftn.iis.soas.domain.model.NotificationRequest;
+import edu.ftn.iis.soas.domain.model.NotificationResponse;
 
 public interface FacadeService {
 
